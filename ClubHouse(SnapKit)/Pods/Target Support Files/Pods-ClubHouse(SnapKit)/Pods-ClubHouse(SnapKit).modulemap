@@ -1,0 +1,6 @@
+framework module Pods_ClubHouse_SnapKit_ {
+  umbrella header "Pods-ClubHouse(SnapKit)-umbrella.h"
+
+  export *
+  module * { export * }
+}

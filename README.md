@@ -1,6 +1,6 @@
 # SnapKit
 
-Project - ClubHouse(Clone first screen)
+Project - ClubHouse app (Clone first screen)
 
 CocoaPods,SnapKit,ColorSlurp
 
